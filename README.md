@@ -1,8 +1,5 @@
 # Robot Gladiators
 
-## Website
-https://sarahwylie.github.io/robot-gladiators/
-
 ## Description
 Experience the world's most boring game in all its glory!
 
